@@ -26,7 +26,6 @@ Ahí puedes ver más sobre mí, mis proyectos y hacia dónde quiero crecer 🚀.
 ---
 
 ## 📈 Stats  
-![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=paumaso&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paumaso&layout=compact&theme=radical)  
 
 ---
