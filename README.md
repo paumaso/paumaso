@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hola, soy Pau Martínez Soria  
 
-<!--
-**paumaso/paumaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Futuro **Fullstack Developer** con muchas ganas de aprender y crecer en el mundo del desarrollo.  
+🚀 Me interesa un poco de todo, pero disfruto sobre todo creando **páginas web** y **aplicaciones móviles**.  
+🌱 Siempre con curiosidad por nuevas tecnologías y buenas prácticas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso
+**Frontend:**  
+- Vue ⚡ | React ⚛️  
+
+**Backend:**  
+- Laravel 🖤 | .NET 🔷 | Java ☕  
+
+**Otros:**  
+- Git & GitHub 🐙 | MySQL | APIs REST  
+
+---
+
+## 📌 Mi portafolio  
+👉 [paumaso-portafolio](https://paumaso.github.io/paumaso-portafolio/)  
+
+Ahí puedes ver más sobre mí, mis proyectos y hacia dónde quiero crecer 🚀.  
+
+---
+
+## 📈 Stats  
+![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=paumaso&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paumaso&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Conecta conmigo  
+- 💼 [LinkedIn](https://www.linkedin.com/in/) *(añade tu link)*  
+- 🌐 [Portafolio](https://paumaso.github.io/paumaso-portafolio/)  
+
+---
+
+✨ *"Aprendiendo un poco de todo para poder construir de todo."*  
