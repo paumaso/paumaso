@@ -31,7 +31,7 @@ Ahí puedes ver más sobre mí, mis proyectos y hacia dónde quiero crecer 🚀.
 
 ## 🌍 Conecta conmigo  
 - 💼 [LinkedIn](www.linkedin.com/in/pau-martinez-soria-b25248250)
-- 🌐 [Portafolio](https://paumaso.github.io/paumaso-portafolio/)  
+- 📩 [Email](mailto:paumartinezsoria@gmail.com)  
 
 ---
 
