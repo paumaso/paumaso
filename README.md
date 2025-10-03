@@ -1,7 +1,6 @@
 # 👋 Hola, soy Pau Martínez Soria  
 
 💻 Futuro **Fullstack Developer** con muchas ganas de aprender y crecer en el mundo del desarrollo.  
-🚀 Me interesa un poco de todo, pero disfruto sobre todo creando **páginas web** y **aplicaciones móviles**.  
 🌱 Siempre con curiosidad por nuevas tecnologías y buenas prácticas.  
 
 ---
@@ -31,7 +30,7 @@ Ahí puedes ver más sobre mí, mis proyectos y hacia dónde quiero crecer 🚀.
 ---
 
 ## 🌍 Conecta conmigo  
-- 💼 [LinkedIn](https://www.linkedin.com/in/) *(añade tu link)*  
+- 💼 [LinkedIn](www.linkedin.com/in/pau-martinez-soria-b25248250)
 - 🌐 [Portafolio](https://paumaso.github.io/paumaso-portafolio/)  
 
 ---
